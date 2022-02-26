@@ -8,7 +8,7 @@ namespace Farming
 {
     public abstract class FarmProduct
     {
-        virtual int NumberAtFarm { get; set; }
+        public virtual int NumberAtFarm { get; set; }
         public string Breed { get; set; }
         public string Age { get; set; }
         public int Weight { get; set; }

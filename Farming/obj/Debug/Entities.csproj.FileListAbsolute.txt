@@ -1,0 +1,2 @@
+C:\Users\CR231918\Documents\Projects\Farm\Farming\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\CR231918\Documents\Projects\Farm\Farming\obj\Debug\Entities.csproj.CoreCompileInputs.cache

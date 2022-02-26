@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Farming
 {
-    class DairyProduct : FarmProduct
+    public class DairyProduct : FarmProduct
     {
 
     }
